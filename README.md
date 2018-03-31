@@ -2,7 +2,7 @@
 
 <h1 align="center">Shades of Purple Theme for Slack</h1>
 
-[![GitHub stars](https://img.shields.io/github/stars/ahmadawais/shades-of-purple-iterm2.svg?style=social&label=Stars)](https://github.com/ahmadawais/shades-of-purple-iterm2/stargazers) [![GitHub followers](https://img.shields.io/github/followers/ahmadawais.svg?style=social&label=Follow)](https://github.com/ahmadawais?tab=followers) [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+[![GitHub stars](https://img.shields.io/github/stars/ahmadawais/shades-of-purple-slack.svg?style=social&label=Stars)](https://github.com/ahmadawais/shades-of-purple-slack/stargazers) [![GitHub followers](https://img.shields.io/github/followers/ahmadawais.svg?style=social&label=Follow)](https://github.com/ahmadawais?tab=followers) [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
 <table width="100%">
     <tr>
@@ -48,6 +48,7 @@ I have built other `Shades of Purple` themes for different software. Here's a li
 - 💜 [VSCode theme](https://github.com/ahmadawais/shades-of-purple-vscode) — Shades of Purple
 - 💜 [iTerm2 theme](https://github.com/ahmadawais/shades-of-purple-iterm2) — Shades of Purple
 - 💜 [Slack theme](https://github.com/ahmadawais/shades-of-purple-slack) — Shades of Purple
+- 💜 [Alfred theme](https://github.com/ahmadawais/shades-of-purple-alfred) — Shades of Purple
 
 <br>
 
