@@ -110,6 +110,6 @@ This FOSS (free and open source software) project is updated and maintained with
 
 **Licensed** as MIT ⓒ [Ahmad Awais](https://AhmadAwais.com/).
 
-Thanks to the creators of Agnoster, Cobalt themes and patched powerline fonts. And Icons8 for the icons in this readme.
+Thanks to the creators of Slack and Icons8 for the icons in this readme.
 
 _Say 👋 on Twitter_ →  [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
