@@ -57,11 +57,11 @@ I have built other `Shades of Purple` themes for different software. Here's a li
 
 ![Hello](https://on.ahmda.ws/os6O/c)
 
-#### **Hello, we're the [WordPress Couple](https://WPCouple.com)**!
+#### **Hello, we're [TheDevCouple](https://TheDevCouple.com)**!
 
-I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) am a Full Stack Web Developer and a regular core contributor at WordPress. My significant other ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Project Manager, and she's also a WordPress Core Contributor. Together with our [team](https://WPCouple.com/team), we run the [WPCouple.com](https://WPCouple.com/).
+I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) am a Full Stack Web Developer and a regular core contributor at WordPress. My significant other ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Project Manager, and she's also a WordPress Core Contributor. Together with our [team](https://WPCouple.com/team), we run the [TheDevCouple.com](https://TheDevCouple.com/).
 
-If you'd like to get insights into our love for open source software, professional full stack development, WordPress community, the growth of JavaScript or growing a family, building, and bootstrapping a business, then subscribe to our premium newsletter called ↣ [The WordPress Takeaway](https://WPTakeaway.club)!
+If you'd like to get insights into our love for open source software, professional full stack development, WordPress community, the growth of JavaScript or growing a family, building, and bootstrapping a business, then subscribe to our premium newsletter called ↣ [The Developer's Takeaway](https://WPTakeaway.club)!
 
 #### [**Support our Open Source Projects!**](https://pay.paddle.com/checkout/515568) 🎩
 
