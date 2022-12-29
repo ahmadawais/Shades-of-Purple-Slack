@@ -11,7 +11,7 @@
 	},
 	"keywords": ["Shades of Purple", "Shade of Purple", "Cobalt", "iTerm2", "coblat 3"],
 	"devDependencies": {
-		"release-it": "^7.2.1"
+		"release-it": "^15.6.0"
 	},
 	"scripts": {
 		"release": "release-it"
